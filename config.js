@@ -1,6 +1,6 @@
 // Thanks For Allah
-// AlyaaXzy
-// BOTCAHX
+// Andry
+// Andry
 
 
 let fs = require('fs')
