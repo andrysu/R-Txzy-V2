@@ -1,4 +1,4 @@
-// R-Txzy Recode
+// ᴀɴᴅʀʏ ʙᴏᴢᴛ Recode
 
 let util = require('util')
 let fetch = require('node-fetch')
